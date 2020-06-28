@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Basic Gitcommands
+=======
+# GitHub commands
+This is has list of basic git commands
+>>>>>>> 790388cd2700181563e87b56434caa9f4e47ea4c
 $git --version   - gets current version installed on your desktop
 $git status - Tells if any commits or any recent changes
 $code filename.md - creates a file on your default code editor
@@ -12,7 +17,11 @@ before adding add, the modifed file was in red color stating it wasn't tracked. 
 $git add. -- lets you track all the files that are in the directory, rather than having to type git -add "eachfilename.md"
 $git config --edit --global - opens the global file using your default editor
 $git log - shows all the commit logs
+<<<<<<< HEAD
 ## Creating SSH Key examples
+=======
+## creating SSH Key
+>>>>>>> 790388cd2700181563e87b56434caa9f4e47ea4c
 $ ssh-keygen
 Generating public/private rsa key pair.
 Enter file in which to save the key (/c/Users/Balaji/.ssh/id_rsa): balajigithub

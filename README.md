@@ -1,3 +1,4 @@
+# GitHub commands
 This is has list of basic git commands
 $git --version   - gets current version installed on your desktop
 $git status - Tells if any commits or any recent changes
@@ -12,7 +13,7 @@ before adding add, the modifed file was in red color stating it wasn't tracked. 
 $git add. -- lets you track all the files that are in the directory, rather than having to type git -add "eachfilename.md"
 $git config --edit --global - opens the global file using your default editor
 $git log - shows all the commit logs
-# creating SSH Key
+## creating SSH Key
 $ ssh-keygen
 Generating public/private rsa key pair.
 Enter file in which to save the key (/c/Users/Balaji/.ssh/id_rsa): balajigithub

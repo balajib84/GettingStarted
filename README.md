@@ -15,6 +15,7 @@
 - $git checkout newbranch - Will switch to directory
 - $git checkout -b newbranch - Do both in same command, create as well as switch to branch
 - $git push -u origin newbranch - Will push the changes to branch instead of master
+- $ git pull origin master - Gets & merges changes from master to your repo
 <<<<<<< HEAD
 ## Creating SSH Key examples
 - Add the pub key to the settings in github website. 

@@ -18,6 +18,7 @@
 - $git pull origin master - Gets & merges changes from master to your repo
 - $git checkout master - to go back to master branch
 - $git branch -D branch name - Caps D is confirm Delete if conflicts, lower d deletes if no conflicts
+_ $git clone https://xxxx.git - to clone git to your local repository. Cd to the downloaded repo location & initialize
 ## Creating SSH Key examples
 - Add the pub key to the settings in github website. 
 - $ ssh-keygen -t rsa -b 4096 -C "youremail@gmail.com"
